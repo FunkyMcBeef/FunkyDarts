@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FunkyDarts</string>
+
+    <string-array name="points_array">
+        <item>301</item>
+        <item>401</item>
+        <item>501</item>
+        <item>601</item>
+        <item>701</item>
+        <item>801</item>
+        <item>901</item>
+    </string-array>
+
+</resources>
